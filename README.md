@@ -7,8 +7,8 @@
 - lwIP TCP/IP Stack
 - tcpdump to capture network
 
-## Compile & Run
-- Compile:
+## Build & Flash & Run
+- Build:
     -  Regular build project via STM32CubeIDE
 - Flash & Run:
     - Flash into microcontroller via STM32CubeIDE (via stlink or jlink)
